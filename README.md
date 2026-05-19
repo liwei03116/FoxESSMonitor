@@ -38,3 +38,11 @@ After installation, verify:
 ```bash
 node -v
 npm -v
+
+## 2. Install Project Dependencies
+
+npm i
+
+## 3. Start the Expo Project
+
+npx expo start -c
